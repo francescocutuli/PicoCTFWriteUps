@@ -22,7 +22,7 @@ Please md5 hash the text between quotes, excluding the quotes: '<string>'
 Answer: 
 ```
 
-You can use a commandline tool or web app like like [CyberChef](https://gchq.github.io/CyberChef/)to hash text.
+You can use a commandline tool or web app like like [CyberChef](https://gchq.github.io/CyberChef/) to hash text.
 
 ## OR
 
